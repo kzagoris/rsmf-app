@@ -1,0 +1,29 @@
+#Analyzer plugin stats
+stats.html
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+rsmf-project-firebase-emulators-data
+.firebase/hosting.*.cache
+.env
+.eslintcache

@@ -1,0 +1,9 @@
+{
+    "name": "Remote Student Framework for Securing Exams",
+    "short_name": "RSMF",
+    "theme_color": "#f79521",
+    "background_color": "#ffffff",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+}
